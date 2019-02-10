@@ -1,0 +1,14 @@
+/Users/akaraman/MyProjects/ProductApi/bin/Debug/netcoreapp2.1/ProductApi.deps.json
+/Users/akaraman/MyProjects/ProductApi/bin/Debug/netcoreapp2.1/ProductApi.runtimeconfig.json
+/Users/akaraman/MyProjects/ProductApi/bin/Debug/netcoreapp2.1/ProductApi.runtimeconfig.dev.json
+/Users/akaraman/MyProjects/ProductApi/bin/Debug/netcoreapp2.1/ProductApi.dll
+/Users/akaraman/MyProjects/ProductApi/bin/Debug/netcoreapp2.1/ProductApi.pdb
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.csprojAssemblyReference.cache
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.csproj.CoreCompileInputs.cache
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.RazorAssemblyInfo.cache
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.RazorAssemblyInfo.cs
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.AssemblyInfoInputs.cache
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.AssemblyInfo.cs
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.RazorTargetAssemblyInfo.cache
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.dll
+/Users/akaraman/MyProjects/ProductApi/obj/Debug/netcoreapp2.1/ProductApi.pdb
